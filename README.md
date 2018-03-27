@@ -1,4 +1,4 @@
-# JavaScript Arrays
+Delete# JavaScript Arrays
 
 ## Objectives
 
